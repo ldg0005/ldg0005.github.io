@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "technology blog."
+title                    : "Technology blog"
 title_separator          : "-"
 name                     : "ldg's blog"
-description              : "technology blog."
+description              : "Technology blog"
 url                      : "https://ldg0005.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "LDG"
+  name             : "Donggyun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "KR"
